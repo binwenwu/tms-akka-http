@@ -27,7 +27,9 @@ var layerId = "VSKYSLV2QQH8Q6FPCOEHZRPLX_1711859862805_0"
 
 - Start the backend service and open the frontend project
 
-![img](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/20240331135421.png)
+<p align="center">
+    <img alt="tms" width="100%" src="[https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/20240330172515.png](https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/20240331135421.png)">
+</p>
 
 ## Maintainer
 
