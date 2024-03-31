@@ -16,7 +16,7 @@ import scala.concurrent._
 
 object Serve {
   def main(args: Array[String]): Unit = {
-    val outputPath = "Path of data" // for example: "/Users/tankenqi/Downloads/data"
+    val outputPath = "/Users/tankenqi/Downloads/data" // for example: "/Users/tankenqi/Downloads/data"
     val catalogPath = new java.io.File(outputPath).toURI
     val attributeStore: AttributeStore = AttributeStore(catalogPath)
     val valueReader: ValueReader[LayerId] = ValueReader(attributeStore, catalogPath)
