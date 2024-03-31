@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>whu.edu.cn</groupId>
-    <artifactId>oge-tms-akka-http</artifactId>
+    <artifactId>tms-akka-http</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

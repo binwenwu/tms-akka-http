@@ -1,5 +1,5 @@
 # oge-tms-akka-http
-OGE-akka加载TMS服务
+akka加载TMS服务
 
 ## akka 是采用嵌套的方式对前端的访问url进行解析
 
